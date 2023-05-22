@@ -1,0 +1,6 @@
+C:\Users\matuh\source\repos\MathLibraryTests\bin\Debug\MathLibraryTests.dll
+C:\Users\matuh\source\repos\MathLibraryTests\bin\Debug\MathLibraryTests.pdb
+C:\Users\matuh\source\repos\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.AssemblyReference.cache
+C:\Users\matuh\source\repos\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\matuh\source\repos\MathLibraryTests\obj\Debug\MathLibraryTests.dll
+C:\Users\matuh\source\repos\MathLibraryTests\obj\Debug\MathLibraryTests.pdb
